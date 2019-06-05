@@ -1,0 +1,32 @@
+h1 
+{
+	font-family: 'Play', sans-serif; 
+}
+h2 
+{
+	font-family: 'Share Tech Mono', monospace; 
+}
+p 
+{
+	font-family: 'Indie Flower', cursive;
+}
+.textual 
+{
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;	
+}
+.paragraph-one 
+{
+	background-color: pink;
+	color: black;
+	width: 20vw;
+	min-width: 100px;
+}
+.paragraph-two 
+{
+	background-color: ivory;
+	color: black;
+	width: 20vw;
+	min-width: 100px;
+}
